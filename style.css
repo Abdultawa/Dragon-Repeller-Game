@@ -39,3 +39,9 @@ body {
   .stat {
     padding-right: 10px;
   }
+
+  @media only screen and (max-width: 1300px){
+    #game{
+      max-width: 100%;
+    }
+  }
